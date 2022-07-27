@@ -1,0 +1,11 @@
+/Users/parnikasaxena/Downloads/min_rep/target/debug/deps/bevy_scene-fa3a51ca21a1e8fc.rmeta: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/command.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/dynamic_scene.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene_loader.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene_spawner.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/serde.rs
+
+/Users/parnikasaxena/Downloads/min_rep/target/debug/deps/bevy_scene-fa3a51ca21a1e8fc.d: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/command.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/dynamic_scene.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene_loader.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene_spawner.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/serde.rs
+
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/lib.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/command.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/dynamic_scene.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene_loader.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/scene_spawner.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_scene-0.7.0/src/serde.rs:
